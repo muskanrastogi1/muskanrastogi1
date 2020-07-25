@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: muskan_rastogi1](https://img.shields.io/twitter/follow/muskan_rastogi1?style=social)](https://twitter.com/muskan_rastogi1)
-[![Linkedin: muskanrastogi](https://img.shields.io/badge/muskanrastogi?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muskanrastogi/)](https://www.linkedin.com/in/muskanrastogi/)
+[![Linkedin: muskanrastogi](https://img.shields.io/badge/-muskanrastogi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muskanrastogi/)](https://www.linkedin.com/in/muskanrastogi/)
 [![GitHub muskanrastogi1](https://img.shields.io/github/followers/muskanrastogi1?label=follow&style=social)](https://github.com/muskanrastogi1)
 
 
